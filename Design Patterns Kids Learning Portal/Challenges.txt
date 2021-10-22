@@ -1,0 +1,1 @@
+The biggest challenge I faced while doing this project was I did not know how to combine the strategy and the decorator design pattern. At one point I even thought of changing one of them but in the end, I changed my decorator classes so they implemented Strategy interface and then I just passed the decorator object in the constructor of Context class of strategy design pattern.
